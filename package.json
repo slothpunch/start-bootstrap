@@ -1,6 +1,6 @@
 {
-  "homepage": "",
-  "name": "small-business",
+  "homepage": "https://slothpunch.github.io/start-bootstrap/",
+  "name": "start-bootstrap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
